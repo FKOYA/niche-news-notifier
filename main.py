@@ -1,5 +1,4 @@
 import json
-import os
 from pathlib import Path
 from fetcher import fetch_entries
 from notifier import send_email
